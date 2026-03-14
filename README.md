@@ -322,7 +322,7 @@ Ganti `IDXX` dengan ID provinsi sesuai kode pada SVG (contoh: `IDBA` = Bali).
 ## 📄 Lisensi & Kredit
 
 - **Dibuat oleh:** Andwisakti
-- **Tahun:** 2025
+- **Tahun:** 2026
 - **Data provinsi:** Bersifat edukatif, tidak 100% akurat — hubungi pembuat untuk perbaikan data
 - **Peta SVG:** Berlisensi bebas untuk penggunaan edukasi
 
